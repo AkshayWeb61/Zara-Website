@@ -1,0 +1,570 @@
+
+@media (max-width:815px) and (min-width:715px) {
+    .navbar ul li a {
+        font-size: 1.2rem;
+    }
+
+    h2 {
+        font-size: 31px;
+    }
+
+    h3 {
+        font-size: 27px;
+    }
+
+    h4 {
+        font-size: 26px;
+    }
+
+    h5 {
+        font-size: 23px;
+    }
+
+    p.introz {
+        font-size: 1.2em;
+    }
+
+    footer {
+        font-size: 16px;
+    }
+
+    p.introz2 {
+        font-size: 1.3em;
+    }
+
+    .introimg2 img {
+        width: 60%;
+    }
+
+    .Prodpara {
+        font-size: 20px;
+    }
+
+    .proimg img {
+        width: 40%;
+    }
+
+    .newform {
+        font-size: 19px;
+    }
+
+    .socialmedia img {
+        width: 36px;
+
+    }
+
+    .continfo {
+        font-size: 20px;
+    }
+
+}
+
+/* 2nd Responsive */
+
+@media (max-width:714px) and (min-width:585px) {
+    .navbar ul li a {
+        font-size: 16px;
+    }
+
+    .logo img {
+        width: 50px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    h4 {
+        font-size: 21px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 19px;
+    }
+
+    footer {
+        font-size: 15px;
+    }
+
+    .introimg2 img {
+        width: 65%;
+    }
+
+    .Prodpara {
+        font-size: 19px;
+    }
+
+    .proimg img {
+        width: 45%;
+    }
+
+    .newform {
+        font-size: 17px;
+    }
+
+    .socialmedia img {
+        width: 36px;
+
+    }
+
+    .continfo {
+        font-size: 17px;
+        margin-top: 10px;
+        line-height: 24px;
+    }
+
+}
+
+/* 3rd Responsive */
+
+@media (max-width:584px) and (min-width:475px) {
+    .navbar ul li {
+        margin: 14px;
+    }
+
+    .navbar ul li a {
+        font-size: 14px;
+    }
+
+    .logo img {
+        width: 45px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 17px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+
+    .introimg2 img {
+        width: 70%;
+    }
+
+    .Prodpara {
+        font-size: 17px;
+    }
+
+    .proimg img {
+        width: 45%;
+    }
+
+    .newform {
+        font-size: 15px;
+    }
+
+    .btn button {
+        font-size: 18px;
+    }
+
+    .socialmedia img {
+        width: 30px;
+
+    }
+
+    .continfo {
+        font-size: 18px;
+        margin-top: 10px;
+        line-height: 30px;
+    }
+
+    .contim img {
+        width: 41px;
+    }
+
+}
+
+/* 4th Responsive  */
+
+@media (max-width:474px) and (min-width:375px) {
+    .navbar ul li {
+        margin: 10px;
+    }
+
+    .navbar ul li a {
+        font-size: 12px;
+    }
+
+    .logo img {
+        width: 34px;
+        border-radius: 9px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h3 {
+        font-size: 19px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 16px;
+        padding: 7px;
+        margin: 7px;
+    }
+
+    footer {
+        font-size: 13px;
+    }
+
+    .introimg2 img {
+        width: 85%;
+    }
+
+    .Prodpara {
+        font-size: 17px;
+        margin: 10px;
+    }
+
+    .proimg img {
+        width: 47%;
+    }
+
+    .newform {
+        font-size: 14px;
+    }
+
+    .btn button {
+        font-size: 15px;
+        height: 30px;
+    }
+
+    .contactform input {
+        padding: 1px;
+        margin: 1px;
+    }
+
+    .socialmedia img {
+        width: 27px;
+
+    }
+
+    .continfo {
+        font-size: 17px;
+        margin-top: 10px;
+        line-height: 27px;
+    }
+
+    .contim img {
+        width: 36px;
+    }
+
+}
+
+/* 5th Responsive  */
+
+
+@media (max-width:374px) and (min-width:295px) {
+    .navbar ul li {
+        margin: 4px;
+    }
+
+    .navbar ul li a {
+        font-size: 11px;
+    }
+
+    .logo img {
+        width: 25px;
+        border-radius: 7px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    h4 {
+        font-size: 17px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 16px;
+        padding: 6px;
+        margin: 6px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    .introimg img {
+        width: 100%;
+    }
+
+    .introimg2 img {
+        width: 100%;
+    }
+
+    .Prodpara {
+        font-size: 16px;
+        margin: 5px;
+        padding: 15px;
+    }
+
+    .proimg img {
+        width: 45%;
+    }
+
+    .newform {
+        font-size: 13px;
+    }
+
+    .btn button {
+        font-size: 14px;
+        height: 28px;
+    }
+
+    .contactform input {
+        padding: 1px;
+        margin: 1px;
+    }
+
+    .socialmedia img {
+        width: 24px;
+
+    }
+
+    .continfo {
+        font-size: 16px;
+        margin-top: 7px;
+        line-height: 22px;
+    }
+
+    .contim img {
+        width: 32px;
+    }
+
+}
+
+/* 6th Responsive  */
+@media (max-width:294px) and (min-width:215px) {
+    .navbar ul li {
+        margin: 3px;
+    }
+
+    .navbar ul li a {
+        font-size: 8px;
+    }
+
+    .logo img {
+        width: 23px;
+        border-radius: 7px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    h4 {
+        font-size: 15px;
+        padding: 3px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 15px;
+        padding: 3px;
+        margin: 2px;
+    }
+
+    footer {
+        font-size: 7px;
+    }
+
+    .introimg img {
+        width: 100%;
+    }
+
+    .introimg2 img {
+        width: 100%;
+    }
+
+    .Prodpara {
+        font-size: 15px;
+        margin: 1px;
+        padding: 12px;
+    }
+
+    .proimg img {
+        width: 43%;
+    }
+
+    .newform {
+        font-size: 11px;
+        padding: 1px;
+    }
+
+    .btn button {
+        font-size: 11px;
+        height: 25px;
+    }
+
+    .contactform input {
+        padding: 1px;
+        margin: 1px;
+    }
+
+    .socialmedia img {
+        width: 20px;
+
+    }
+
+    .continfo {
+        font-size: 14px;
+        margin-top: 7px;
+        line-height: 20px;
+    }
+
+    .contim img {
+        width: 30px;
+    }
+
+}
+
+/* 7th Responsive  */
+
+@media (max-width:214px) and (min-width:160px) {
+    .navbar ul li {
+        margin: 2px;
+    }
+
+    .navbar ul li a {
+        font-size: 7px;
+    }
+
+    .logo img {
+        display: none;
+        width: 23px;
+        border-radius: 7px;
+    }
+
+    h2 {
+        font-size: 14px;
+    }
+
+    h3 {
+        font-size: 13px;
+    }
+
+    h4 {
+        font-size: 13px;
+        padding: 1px;
+    }
+
+    h5 {
+        font-size: 14px;
+    }
+
+    p.introz,
+    p.introz2 {
+        font-size: 14px;
+        padding: 2px;
+        margin: 1px;
+    }
+
+    footer {
+        font-size: 5px;
+    }
+
+    .introimg img {
+        width: 100%;
+    }
+
+    .introimg2 img {
+        width: 100%;
+    }
+
+    .Prodpara {
+        font-size: 14px;
+        margin: 1px;
+        padding: 10px;
+    }
+
+    .proimg img {
+        width: 43%;
+    }
+
+    .newform {
+        font-size: 9px;
+        padding: 1px;
+    }
+
+    .btn button {
+        font-size: 9px;
+        height: 25px;
+    }
+
+    .contactform input {
+        padding: 1px;
+        margin: 1px;
+    }
+
+    .socialmedia img {
+        width: 18px;
+
+    }
+
+    .continfo {
+        font-size: 13px;
+        margin-top: 6px;
+        line-height: 18px;
+    }
+
+    .contim img {
+        width: 26px;
+    }
+
+}
